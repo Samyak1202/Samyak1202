@@ -1,4 +1,4 @@
-HactoberFest Badges:
+## HactoberFest Badges:
 [![@samyak1202's Holopin board](https://holopin.me/samyak1202)](https://holopin.io/@samyak1202)
 
 <!--
