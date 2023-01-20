@@ -1,4 +1,5 @@
-### Hi there 👋
+###Hactoberfest Badges:
+[![@samyak1202's Holopin board](https://holopin.me/samyak1202)](https://holopin.io/@samyak1202)
 
 <!--
 **Samyak1202/Samyak1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-###Hactoberfest Badges:
-[![@samyak1202's Holopin board](https://holopin.me/samyak1202)](https://holopin.io/@samyak1202)
+
